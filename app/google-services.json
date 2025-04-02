@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550783909660",
+    "project_id": "gtschool-1a3fd",
+    "storage_bucket": "gtschool-1a3fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550783909660:android:76e95023bc39a7b62904d9",
+        "android_client_info": {
+          "package_name": "com.example.gtschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuIc7hwE3QLz1cz16pQXVsD-gDPK2d_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
