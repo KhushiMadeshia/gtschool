@@ -104,7 +104,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Sign Up"
+        android:text="Signup"
         app:cornerRadius="10dp"
         app:layout_constraintEnd_toEndOf="@+id/roleSpinner"
         app:layout_constraintStart_toStartOf="@+id/roleSpinner"
